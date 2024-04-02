@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+#MainDiv{
+    background-color: black;
+    width: 50%;
+    margin-left: 25%;
+}
+
+#MainImg{
+    border: 5px solid white;
+    width: 100%;
+}
+
+p{
+    color: white;
+    text-align: center;
+
+}#MainTitle{
+    font-family: "Libre Baskerville",serif;
+    color: white;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 3rem;
+}
